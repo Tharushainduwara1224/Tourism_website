@@ -1,0 +1,47 @@
+
+#footer{
+	text-align:center;
+	font-size:30px;
+	padding:10px;
+	top: 0;
+    background: rgb(0, 0, 0); 
+    background: rgba(0, 0, 0, 0.5); 
+    color: #f1f1f1;
+    width: 98.68%;
+    
+}
+#header{
+	text-align:left;
+	color:white;
+	font-size:30px;
+	padding:10px;
+	top: 0;
+    background: rgb(0, 0, 0); 
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 98.68%;
+    padding: 5px;
+}
+.bokka,dt,dd{
+	color:yellow;
+	font-size:30px;
+	font-family:Arial Black;
+}
+
+
+
+.content {
+  top: 20;
+  background: rgb(0, 0, 0); 
+  background: rgba(0, 0, 0, 0.5); 
+  color: #f1f1f1;
+  width: 98.68%;
+  padding: 5px;
+  font-size:18px;
+}
+body{
+	background-image:url('corona2.jpg');
+	background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
